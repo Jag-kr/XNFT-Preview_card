@@ -1,0 +1,7 @@
+<svg width="302" height="302" xmlns="http://www.w3.org/2000/svg">
+  <rect width="302" height="302" fill="hsl(215, 51%, 70%)" />
+  <g fill="none" stroke="#fff" stroke-width="2">
+    <path d="M151 50 l60 40 v120 l-60 40 l-60 -40 v-120 z" fill="hsl(178, 100%, 50%)" fill-opacity="0.2"/>
+    <path d="M151 50 v100 M91 90 l60 60 M211 90 l-60 60 M151 150 l-60 100 M151 150 l60 100" />
+  </g>
+</svg>
